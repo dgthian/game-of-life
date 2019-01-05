@@ -32,5 +32,5 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 
 
 
-Djibril Gueye THIANDOUM / 05-01-2019 / Ouakam/ Dakar / Senegal
+Djibril Gueye THIANDOUM / 05-01-2019 / Ouakam/ Dakar / Senegal **
 

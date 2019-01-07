@@ -159,7 +159,7 @@
                         </execution>
                     </executions>
                     <configuration>
-                        <storyType>html</storyType>                         l
+                        <storyType>html</storyType>                         
                         <storyReport>${basedir}/target/easyb/easyb-report.html
                         </storyReport>
                     </configuration>
@@ -308,7 +308,7 @@
                                 <plugin>
                                     <groupId>org.jacoco</groupId>
                                     <artifactId>jacoco-maven-plugin</artifactId>
-                                    <version>0.7.2.201409121644</version>
+                                    <version>0.7.0.201403182114</version>
                                 </plugin>
                                 <plugin>
                                     <groupId>org.apache.maven.plugins</groupId>
